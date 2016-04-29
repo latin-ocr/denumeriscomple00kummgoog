@@ -1,0 +1,43 @@
+lb
+
+m
+
+Β debet. Praeterea quio omnes radices illius congruentiae unius radicis ξ potesta·
+tes sunt, sponte apparet pro alia radice ξ alium etiam lectorem hujus producti
+per p divisibilem fieri, itaque pro quolibet faetore certa quaedam radix ξ exstare
+debet, qua substituta nibilo congruus reddetur.
+
+Postquam demonstravimus quo modo infinitus numerus complexorum numero-
+rum omnium inveniatur, quorum normae lactoremp babeant, quaerendum nobis ri-
+detur an semper inter bos numeros complexos exstent quarum norma sit ipse nu-
+merus p, sive quod idem est, an quilibet numerus primus p formae mis-l in
+t-l lectores primos conjunctos diffindi possit Ad bunc finem ponamus esse
+p=s(a)s(o⁹)s(a³) . . . ‚flul-¹), et rideamus quae inde pro numero p sequan-
+tur. Hujus producti factores secundum radices unitatis α, α’, 02³, . . . . ‹sl-¹, quas
+continent in periodos dividamus. Productum laetorum eorum qui ud eandem pe-
+riodum pertinent, ex notis Ol. Gaussii theorematis, erit iunctio rationalis integra
+linearis omnium periodorum similium. Jam si t-1 factoribus e ets constat, et
+eperiodi f terminorum accipinutur, quas Gaussii signis designamus 021), (fig),
+(ἧς’) . . . . (Mt-¹), productum eorum laetorum, qui eandem periodum consti-
+tuunt boue sormam babet:
+
+⁶÷b.(s‚1)÷b2(s‚s)÷···· ÷b0(s‚s⁶·¹)
+et simili modo producta factorum qui ceteras periodos conficiunt
+b÷⁶.<s‚s>÷n<s‚o²>÷···· ΗΜΛ)
+
+l÷o¹(s,g⁹)÷b2(f‚s³>÷····÷b(s‚s)
+etc. eto.
+
+quarum omnium productum quum sit iunctio invariabilis (symmetrica) omnium pe-
+
+riodorum, ab iis periodis liberum est, et lormam certam gradus e et e÷l in-
+determinatorum d, b„ t„ . . . . de elficit, qui lacile ud sindetorminstos numeros
+reducuntur. Igitur si e, ε’, e‘'. . . . . sunt divisores numeri t-l, numerus p
+repraesentari debet per formam certam gradm eet e indeterminatorum, idem-
+que per formam gradus e‘ et e' indeterminatorum eto. Hoc autem pro certis
+numeris p et l fieri non posse facillime intelligitur en forma mouodi gra-
+
+dus et duorum indeterminatorum, quam p babere debet, siin t-l factores
+
+ 
+

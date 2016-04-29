@@ -1,0 +1,50 @@
+3
+
+m
+
+ln numero complexo s(oe) est α radix quaedam aequationis 1÷a÷a2÷...
+÷a2-1=0, cujus ceterae radices unius o potestates sunt, omnibus iis radicibus
+loco a in ίῳ) substitutis babemus t-l numeros complexos s (a), ψ’), s(o⁸) . ..
+s (alf-¹), quos nummos conjunctos appellabimus. luter hos bini ad radices reoi-
+procas pertinent, scilicet s(ot²) et ΛΗ), quos nummos reciprocos vocare con-
+venit. Productum omnium numerorum conjunctorum tanquam innodo invariabilis
+integra onmium radicum aequationis 1÷a -t- 0²4- . . .. ÷a²-¹=o, semper est
+numerus realis integer, qui numeri complexi norma appellatur. Es ipsa normae
+delinitione statim perspici possunt propositiones simplicesa nummos conjrmctos eon-
+dem ramatum labere, et normam products· aequalem esse producto es normis singa-
+lorum sactorum. Numeri compleri s(a) normam, praeeunte cto. Lejeune-Di-
+riohlet‚ praeposita littera Ν designamus, ito ut sit:
+
+Ns (s)=s (α) s (αἳ) s (α’) · · · ·s(‘²²‘¹)
+
+unde hae propositones tali modo exbiberi possunt:
+
+Nsls'l=Ns(oe) et N (s (a)p(o))=Ns (a).N als)-
+
+aa.
+
+Si omnes coiilficicates numeri complexis(a) pro indeterminatis habentur, et pro-
+ductum laetorum omnium qui normam constituunt evolvitur, forma homogenea gradum
+t-1 et λ indeterminatomm prodit, quorum aero unus ex arbitrio eligi potest, ita
+ut t-1 numeri indeterminati remaneant. Omnes igitur disquisitiones de numeris
+complexis pro disquisitionibus de talibus formis gradus t-l totidemque indeter-
+minatorum haberi possunt. De formatione hujus formae notare convenit eam pro
+aequatione haberi posse, quae ex aequationibus duabus,
+
+0=a÷oqa÷aqa²÷ .·..-t-02..1o²··¹
+0=l÷a÷a²÷....÷a²-¹
+
+quantitate¹ a eliminata, efficitur, quam eandem esse atque aequationem s (α) s (αἳ) . . .
+
+s(o²··¹)=0‚ ex notissimis regulis algebraicis constat. Alio modo norma tauquam
+
+denominator communis invenitur, quem systematis aequationum linearium incognitae
+evolutae habent Quales denominatores Ol. J acobi determinantium nomine orna·
+
+sit et pluribus locis ingeniosissime tractarit. Accipimus systema aequationum linea·
+rium hocce:
+
+1.
+
+ 
+

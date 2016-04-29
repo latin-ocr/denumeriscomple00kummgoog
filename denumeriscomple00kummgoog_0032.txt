@@ -1,0 +1,44 @@
+20
+
+Posito p(cl—s(a)1p(ol=lt(e) patet factorem maximum communem numerorum
+
+cp(a) et s(a) eundem esse numerorum s(a) et Rp), unde indagatio lactoris oom-
+munis eo reducta est, ut aliorum duorum numerorum, quorum normae minores
+sunt, lactor communis quaerendus sit. Itaque hnc methodo repetita, nisi forte
+casus ille adversus evenit, ¹quem snpra commemoravimus, tandem ad dnos numeros
+pervenimus, qnorum alter lactor alterius, ideoque hic ipse iactor communis est
+quem quaerimus; cujus norma si unitas est, numeri illi sunt inter se primis
+Facile haec methodus ad factores primos numeri p=mt÷l indagandos
+applicari potest, siqnidemp revera est productum t-—l laetorum conjunctorum.
+Quem ad finem quaeratur radix aliqua ξ congruentiae l÷3 -1-22-1- . . . -ι-ξἎ-ῚΞΟ ¹
+mod. p, quae si p in t-1 lactores conjunctos dilfindi potest, semper talis est, ut
+ξ-οι etp factorem complexum communem habeant. Hic igitur, secundnm me-
+thodum traditam inventus, erit lactor simplex complexus numeri p. Supra vidi-
+rnus pro certis numeris p et t talem factorem communem numerorum ξ--α etp
+
+non adesse, quamvis norma numeri ξ-α perp divisibilis sit, porro si per metho-
+
+dum traditam numeri complexi normarum minorum quaeruntur, patet eorum omnium Ι
+
+normas perp divisibiles esse, quam oh rem nullo modo ad normam unitmrl
+
+venire possumus, semper igitur lactor communis ab unitate diversus inveniretur,
+etiarn uhi talem factorem non adesse demonstravimus, nisi in omnihus iis calculis
+eveniret ut norma istius numeri complexi fracti ΙΗ- lt¹ α -ι- lt2 a²÷ ·t- lap-1 cvi-*¹
+minor unitate lieri non posset, qua conditione methodus nostra ad finem propo-
+situm perducere non potest.
+
+Altera methodus minus quidem directa tamen multo faciliori negotio lactares
+primos complexos numeri p=mt÷1 praebet. In hac omnes congruentiae 1÷r ·
+43²4- . . . . ÷}²·¹÷0 mod. p radices ξ, 3², ξ3 etc, in usum vocamus, quihus
+e canone arithmetico a Ol. J acobi edito depromis, sive alio modo inventis, solu-
+tiones congruentiae o-v-alz-t-cqtis- . . .. -v-o2-2}²··¹·=··0 mod.p quaerimus,
+ex quovis systemate numerorum a, cp, c„ . . . . <lt-1, qui huic congruentiae satis-
+faciunt nnmerum complexum s(a)= c-s-c¹ a-v- c2o⁹÷ . . . . ÷up-1al··¹ compo-
+nimus, etex omnihus iis numeris, quaram normae per theorema supra demonstra-
+tum 5 7. lactorem p habent, eam eligimus quae simplicissima sit, et normam quam
+
+minimam hahere videatur, quae jam ipsa computanda est, ut appareat utrum revera
+
+ 
+

@@ -1,0 +1,43 @@
+2
+
+ιω
+
+§10
+Si α est radix quaedam primitiva aequationis al = 1, quamlibet lunationem
+rationalem integram radicis α, cujus· omnes culillicientes numeri integri sint, nume-
+
+rum integrum complexum voco. 'Palis iunctio, aequatiouis o²=l ope, statim ad
+
+gradum t-l reducitur, itaque numerorum complexorum quos tractaturi sumus
+
+forrua generalis cst haec:
+s(a)=a÷a¹o÷oqa²÷....÷o2-1a2-1;
+numerum λ hic ubique numerum primum accipimus, qui est casus maximi momenti,
+et quasi lons a quo tota lraec doctrina derivatur. [nde rejecta radice a=l, quae
+hac conditione est sola radix non primitiva, habemus aequationem
+1÷a÷a²÷....÷a²-1=0
+cujus ope ex repraesentatione numeri complexi s(a) unus terminus removeri potest,
+ex. gr. ultimus, quo lacto numerus complexus respectu radicis α ad gradum i—2
+deprimitur. Hanc autem reductionem, quae summarum symmetriam turbaret3 in
+universum nou adoptabimus, sed retentis omnibus terminis et coiifficientibus α,ιι1 ‚oveto
+aequatione l-t- oe÷a²÷ ..... ÷or³‘¹=0 ita utemur, ut summa omnium
+coiifficientium o÷o1÷o2÷....÷oq.1 quodam modo in potestate nostra sit.
+Nam sr‘ eoqfficr'entes numeri compleas· s(o) omues eodem numero augentur ael mi·
+reantur, lra'c ipse numerus s(a) non mutator, quia nihil accedit nisi multiplum ior-
+mae 1÷a÷a⁹÷....-r-a²·¹‚ quae nihilo aequalis est Vico versa duo aa·
+mers· compleor· aequales esse nequeant nisi, coi‘sficr'entr'das omnibns eodem narsem
+auctis calamitatis, ollerprorsus idem fit utque oller. Positis enim
+s(a)==u-t·u¹oe·t-uqa²÷ · . . . -t-aq..1oe²··¹
+m(o)=d-t·d'or÷ ὄψ’-1· . . .. -t·dp..1or³··¹
+si est s(o)=p(a) habemus: Ἴ
+0:a—d÷(u¹—b¹)oe·t-(u2—d2)oe²÷ . . . . ÷(a2-1-b2.1)cr²‘¹
+haec autem aequatio gradus l-l idem valere debet atque aequatio 1÷a÷a²
+' -s- . . . . -t- a2-1=0‚ quia, si res aliter se haberet, ex utraque aequatione
+conjuncta alia aequatio gradus minoris prodiret, cujus ooiiificieutes rationales essem,
+quod lieri non posse ex Gaussii disquisitionibus arithmeticis notum eat. Itaque
+ex aequalitate numerorum s(a) et cp(o) sequitur
+
+u-d2uq-d¹=a²-d2= . . . . :Ut-t-dt-t·
+
+ 
+

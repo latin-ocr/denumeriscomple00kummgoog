@@ -1,0 +1,45 @@
+18
+
+dum ridetur, quod bueo numerorum realium virtus, ut iu factores primos dissolvi
+possint, qui pro eodem numero semper iidem siut, non eadem est numerorum
+complexorum, quae si esset tota haec doctriua, quae magnis adbuc difficultatibus
+laborat, facile absolvi etad linem perduci posset. Eam ipsam ob caustum numeri
+complexi, quos hio tractemus, imperfecti esse ridentur, et dubium inde oriri posset,
+utrtnu hi numeri complexi ceteris qui tingi possint praeferendi, en ulii qtroereadl
+essent, qui in hac re fundumentuli analogiam cum numeris integris realibus ser·
+vareut Attamen bi numeri complexi qui unitatis radicibus ct numeris integris rea-
+libus componuntur, non ex arbitrio lacti sunt, sed cx ipse doctriua numerorum pru·
+creati, atque ipsorum ea ratio est, ut iu doctrina sectionis circuli et residuorum pot-
+
+estatum altiorum ulterius promovenda iis carere nullo modo possimus.
+
+Quum numerorum ¹primorum lormoe orie-1 alii in t-l factores complexos
+
+discerpi possint, alii nonpossint, e re est ut inveniatur qui et quales siut ii uu·
+meri i. etp, pro quibus talis repraesentatio locum habet, atque ut pro iis qui mi·
+norem tuntum numerum factorum primorum babent, borum iacturum numerus et
+[orma propria indagetur, quod vero problema ulterioribus virorum doctorum per·
+scrutationibus relinquendum est. Ipse ut lranc rem accuratius cognoscerem, et ut
+exemplis docerer, omnium numerorum primorum inira mille, qui formes hubent
+
+5m÷1‚7m÷1‚11m÷1,13m÷1,17m÷1,19m÷1ettam-el
+factores primos computavi, et methodos quibus usus sum et ipsos lectores primos
+computatos hocloco in publicum edam.
+
+Altera methodus factore communi duorum numerorum complexorum inveniendo
+nititur, quod problema simili modo solvendum est atque pro numeris integris rea·
+
+libus. Si φ(α) et s(a) suot numeri complexi quorum¹ lactor communis maximus
+
+· investigandus est, et N pta)>Ns (a), a numero fracto Q numerum certum in-
+
+so)
+
+tegrum subtraho ψ(α), quem siquidem lieri potest ita eligo,· ut norma residui sit
+
+N({ss{}}-r1(oe))<1.
+
+minor unitate, sive
+
+ 
+

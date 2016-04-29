@@ -1,0 +1,43 @@
+10
+
+—u-——u—
+
+§50
+
+progredimur ad perscrutandos eos numeros complexos, quorum norma sit
+
+numerus primus p, ita ut habeatur
+s=so>sra²>s<a³> ‚ · · ·s<a²·¹)·
+Numerus primus, qui tali modo in t-1 factores dissolri potest, secuudum tbeo-
+rema paragrapho tertia propositum, formam linearem mla-1 babere debet, nisi
+est ipse numerus l=p, qui talimodo in λ-1 factores dissolvitur:
+l=(l-o)(l-a²)(l·-u³) . . . . (Ι-αΗ).
+
+Fautores f(a)‚ s(a²) etc, aunt numeri corsplecs' primi qui, sr‘ rens‘lctes conrplecoe
+excluduntur, alterurn ἐπ suctores dr'ssolsr' aon possunt. Nam si ponimus s(a)e
+factoribus φ(α).ψ(α) constare, babemus f(a) =p(c).rp(al,' et N Λα) =
+N φ(α).Ν ψ(α), etquis Ns (a) = p est numerus primus, alter {actorum realium
+integrorum N pta) et N qu(a) unitati aequalis esse debet, itaque alter iacturum
+φ(α) et ψ(α) orit unitas complexa, et s (α) numerus primus complexus. Porro
+demonstramus bos foetores s (α) , s(o²) etc.,‘ omnes s'rrter se dabersos esse. Ex
+aequalitate duorum factorum fot)=f(a⁹)‚ alia radice idonea loco α substituta,
+sequeretur s(c)=s(a”)‚ et repetita substitutione a· loco a, esset s (α) -- ]’(α”)ε
+s(a¹¹')=:s(a'⁸⁸)= etc. Jam si infima potestas numeri n, quae unitati congrua sit
+modulo λ, est nl in producto t-1 iacturum numeri p emnt h factores aequales,
+alia deinde radice substituta, qnae inter radices a, at, c’⁸¹ etc. non invenitur, statim
+alios b factores aequales obtinemus et ita porro, usqne dum omnes factores ex-
+hausti sunt Igitur er aequalitate duorum laetorum primum sequeretur utp sit
+potestas lsffl producti eorum factorum complexorum, qui intur se diversi sint Ra-
+dices α, ost, οβ’ etc. periodum le terminorum efficiunt , atque si iunctio rationalis
+integra s (a), loco o omnibns periodi radicibus substitutis, immutata manet, hanc
+ipsam omnium similium periodorum, itaque etiam unius earum, functionem rationa-
+lem integram esse constat. Ceteri lautores diversi ab boc non differre possunt,
+nisi quod ceterarum periodorum functiones sunt, et omnium lautorum diversorum
+productum, tanquam iunctio invariabilis omniurn periodorum similium, esse debet
+numerus integer realis. Hinc tandem sequeretur utp esset potestas numeri realis
+et exponentis b, quod quum absurdum sit concludimus omnes illos factores primos
+
+complexos numeri p inter se diversos csse.
+
+ 
+

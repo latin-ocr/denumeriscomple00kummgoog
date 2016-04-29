@@ -1,0 +1,50 @@
+ll
+
+m
+
+Si tuli lectore primo complexo numeri p tunquam modulo eive ‹lirieore uti-
+
+mur, simul productum ceterorum tactorum
+
+Fta)=s(a²)·s 1²³) · · · ·s(a²·¹)
+
+⁶ cujus auxilio divisio per numerum complexum s(o) ed divisionem per numerum
+
+realem Ns (α) reducitur, magni momenti eet, quum ob rem hujus producti proprie-
+tates principales praeterire non possumne. Sit p=s(o) F(o) et producto F(o)
+per multiplicationem evoluto habeatur
+F(o)=A÷A1a-t-A2o²-t- .. . . 47A2-1o²···¹
+unde etium
+F(a²)=A÷A1a²÷A2a⁴-r- .... *At-1⁰²²*
+
+F(a³)=A ÷A9a³÷ A2o⁶÷ ¹. . . . -Ι-Αι..1αἶ’7’··3
+
+F(ol²··¹ ) = A ÷A1o²·‘¹-r-.Assoe²²·2÷ . . . . ·t- A2-1a(²··1)(²-1)
+iio aequationibue secundum ordinem per α-”, roc-²⁸, etr-⁸³ . . . . οι-(Ῑ’-1)’ι multipli-
+cetie et additione conjunctis, hebemus
+a-nn(a)÷a-2ol‹¹(a²)÷...4o-(2-1u1tta2-1)=tA„-(A÷A¹÷A2÷...÷A2-1)
+inde mutnndo n in n-l et subtrahendo ·
+o-”tl-u)F(a)-t·a·2⁸(lr a²)F(a²)-r-....÷a-<²-¹)⁸F(a²-1)=t(A„-A„-1)
+ex lrcc formo, ‹lenuo mututo n in n÷l et 1242, prodeunt similer lormee pro
+t(A„÷1-A„) et ΚΛΗ-ΑΗ), quibus inter ee multiplicetis formetur evolutio
+lormae ¹
+
+2²(A„.p1-A„)²-l²(A„†2-A„41)(A„-A„-1l.
+Facile perspicitur in hnc evolutione quadrato numerorum complexorum He),
+F(o²) etc. non reperiri, red oola producto binorum diversorum, quoe lectoren
+s (α) s (αἳ) s (ai) . . . . s (cl-¹) ornnes simul, ideoque factorem realem p continent.
+Quum igiturp eit lector communie omnium terminorum hujus formulae evolutae,
+'lectore λῃ omisso, habemus congruentiam
+
+(An÷1-Ae) “=’(An÷o-An÷1)(Ae-Ao-1) milli
+quae etiem hoc modo repraesentari potest:
+
+A„÷1—A„ ..ΑΓ-ΑΗ mom
+
+An÷n-An÷1=An÷1-An
+
+poeito igitur
+ᾖ ss
+
+ 
+
